@@ -1,13 +1,48 @@
 # DBMS-with-GUI-in-Bash
-Database Management System (DBMS) with GUI in Bash
+# 🗃️ Bash DBMS – Terminal-Based Database Management System
 
-**Summary**
+A lightweight terminal-based Database Management System (DBMS) built entirely using **Bash** and **Zenity** for optional GUI support. No external dependencies required.
 
-- This project is a lightweight Database Management System (DBMS) built using Bash and enhanced with a Zenity-based Graphical User Interface (GUI).
-- Designed to operate entirely within the terminal, it allows users to create, manage, and query databases and tables without external dependencies. 
-- Key features include creating and dropping databases, defining tables with custom column types, performing CRUD operations (Create, Read, Update, Delete), and enforcing data validation for integrity. 
-- The project showcases advanced Shell Scripting skills, system automation, and efficient data management, delivering a user-friendly experience through intuitive GUI dialogs.
+---
+
+## 📌 Features
+
+- **Database Operations**  
+  - Create, list, use, and drop databases
+
+- **Table Operations**  
+  - Create tables with custom column names and data types
+  - Read, update, and delete table records (CRUD)
+
+- **Data Validation**  
+  - Input validation to maintain data integrity and consistency
+
+- **GUI Support (Optional)**  
+  - Use of Zenity to provide dialog-based user interaction
+
+---
+
+## 🧪 Technologies Used
+
+- Bash (Shell Scripting)  
+- Zenity (for GUI popups and dialogs)  
+- Standard Linux utilities (no external databases or packages)
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+- Linux environment
+- Bash shell
+- Zenity installed (optional, for GUI)
+
+### ▶️ Run the Program
+
+```bash
+./database.sh
 
 
+### Author: Alaa Abdullah 
 
-# Author: Alaa Abdullah 
